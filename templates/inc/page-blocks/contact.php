@@ -1,0 +1,1 @@
+<p><b>Test include from contact.php</b></p>

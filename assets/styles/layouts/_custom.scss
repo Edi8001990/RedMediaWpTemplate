@@ -1,0 +1,55 @@
+//Main nav Styling
+
+.navbar a{
+    color: $red;
+    text-transform: uppercase;
+    font-size:16px;
+    margin-top: 1em !important;
+    margin-bottom: 1em !important;
+    background-color:transparent !important;
+}
+
+
+
+.navbar{
+    border: none !important;
+    
+}
+.navbar-default{
+    background-color: #f8f8f800 !important;
+}
+
+
+.navbar a:hover{
+    color: $red;
+}
+
+.navbar{
+    min-height: 0rem !important;
+}
+
+a[title="Logo"]{
+    background-image:url('../../assets/images/argyle-logo.svg');
+    background-position: 50%;
+    background-size: cover;
+
+    background-repeat: no-repeat;
+    font-size: 0;
+    width: 100%;
+    
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+//Restaurant block
+.restaurant{
+    background-color: black !important;
+}
+
