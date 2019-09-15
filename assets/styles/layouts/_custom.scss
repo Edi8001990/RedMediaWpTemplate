@@ -1,3 +1,10 @@
+
+//Body Styling
+.main{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
 //Main nav Styling
 
 .navbar a{
@@ -42,6 +49,14 @@ a[title="Logo"]{
 }
 
 
+// Main container
+
+.container {
+    margin: 0 auto;
+    width: 100%;
+}
+
+
 
 
 
@@ -49,7 +64,22 @@ a[title="Logo"]{
 
 
 //Restaurant block
-.restaurant{
-    background-color: black !important;
+
+
+.col-lg-6{
+    background-color:#f3f3f3 !important;  
 }
 
+.restaurant-text-first{
+    font-family: Oswald,sans-serif;
+    font-size: 30px;
+    color: #4a4a4a;
+    letter-spacing: .07px;
+    line-height: 36px;
+}
+
+.restaurant-text-second{
+    color: #4a4a4a;
+    letter-spacing: .07px;
+    line-height: 36px;
+}

@@ -1,4 +1,4 @@
-<div>
+<div class="row m-0">
 <?= include 'inc/page-blocks/home.php' ?>    
 <?= include 'inc/page-blocks/restaurant.php' ?>
 <?= include 'inc/page-blocks/menus.php' ?>
