@@ -1,5 +1,6 @@
 //Imports
 @import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
 
 
 //Body Styling
@@ -166,4 +167,29 @@ a[title="Logo"]{
 .image-menus-sample{
     max-width: 60%;
     height: auto;
+}
+
+
+//Footer section
+
+.company a{
+    color: $gold;
+    text-decoration: none;
+}
+
+.company a:hover{
+    color: $gold;
+}
+
+
+
+
+.footer-container{
+    background-color: $blue;
+    color: #9b9b9b !important;
+    font-size: 1.4rem;
+    
+}
+.col-md-3{
+    width: 25%;
 }
