@@ -68,11 +68,18 @@ a[title="Logo"]{
 
 //Restaurant block
 .restaurant{
-    background-color:#f3f3f3; 
-    
+   background-color:#f3f3f3; 
 }
 
+.image-sample-container{
+    margin-top: 2rem;
+    text-align: center;
+}
 
+.image-sample{
+    max-width: 30% !important;
+    height: auto !important;
+}
 
 .restaurant-text-first{
     font-family: Oswald,sans-serif;
@@ -94,5 +101,5 @@ a[title="Logo"]{
     line-height: 2.3rem;
     padding: 5rem 20rem 5rem 14rem;
     font-size: 1.7rem;
-    
 }
+
