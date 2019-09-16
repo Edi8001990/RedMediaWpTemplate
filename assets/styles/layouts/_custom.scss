@@ -1,3 +1,6 @@
+//Imports
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+
 
 //Body Styling
 .main{
@@ -64,22 +67,32 @@ a[title="Logo"]{
 
 
 //Restaurant block
-
-
-.col-lg-6{
-    background-color:#f3f3f3 !important;  
+.restaurant{
+    background-color:#f3f3f3; 
+    
 }
+
+
 
 .restaurant-text-first{
     font-family: Oswald,sans-serif;
-    font-size: 30px;
+    font-size: 2.5rem;
     color: #4a4a4a;
-    letter-spacing: .07px;
-    line-height: 36px;
+    letter-spacing: .01rem;
+    line-height: 3.2rem;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    padding: 5rem 14rem 5rem 20rem;
+    
+    
 }
+
 
 .restaurant-text-second{
     color: #4a4a4a;
     letter-spacing: .07px;
-    line-height: 36px;
+    line-height: 2.3rem;
+    padding: 5rem 20rem 5rem 14rem;
+    font-size: 1.7rem;
+    
 }
