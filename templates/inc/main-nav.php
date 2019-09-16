@@ -4,7 +4,7 @@
                 <li><a href="#home">Home</a></li>
                 <li><a href="#restaurant">Restaurant</a></li>
                 <li><a title="Logo" href=""></a></li>
-                <li><a>Menus</a></li>
+                <li><a href="#menus">Menus</a></li>
                 <li><a>Contact</a></li>
             </ul>
    </nav>
