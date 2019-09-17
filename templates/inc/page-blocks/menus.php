@@ -17,7 +17,7 @@
                             <a class="nav-link" href="#">Drinks Menu</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Desserts Menu</a>
+                            <a class="nav-link" id="last" href="#">Desserts Menu</a>
                         </li>
                 </ul>
           </nav>

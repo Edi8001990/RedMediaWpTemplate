@@ -125,7 +125,7 @@ a[title="Logo"]{
     line-height: 3.2rem;
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
-    padding: 5rem 14rem 5rem 40rem;  
+    padding: 5rem 5rem 5rem 30rem;  
 }
 
 
@@ -154,11 +154,15 @@ a[title="Logo"]{
     font-weight:700;
 }
 
-
+#last{
+    border-bottom: none !important;
+}
 
 .navbar-menus a:hover{
     text-decoration:underline !important;
 }
+
+
 
 .menus-content{
     padding-left:1.4rem;
@@ -182,14 +186,31 @@ a[title="Logo"]{
 }
 
 
-
-
 .footer-container{
     background-color: $blue;
     color: #9b9b9b !important;
     font-size: 1.4rem;
+    padding: 1.25rem 1.25rem 0.25rem 1.25rem;
     
 }
 .col-md-3{
-    width: 25%;
+    width: 28%;
+    float:right;
 }
+
+.icons{
+    font-size: 3rem;
+}
+
+.icons li a{
+    color: $gold !important;
+}
+.icons li a:hover{
+    text-decoration:none !important;
+}
+
+.footer-item{
+    padding-top: 0.5rem;
+}
+
+
