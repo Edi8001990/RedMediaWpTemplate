@@ -8,7 +8,7 @@
 
       <div class="menus-nav">
       <p class="menus-content">Lorem ipsum is placeholder text commonly</p>
-        <nav class="navbar-menus navbar-default">
+        <nav class="navbar-menus">
                 <ul class="nav flex-column">
                         <li class="nav-item">
                             <a class="nav-link active" href="#">Food Menu</a>

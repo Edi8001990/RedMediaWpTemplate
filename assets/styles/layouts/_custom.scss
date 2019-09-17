@@ -13,29 +13,37 @@
 
 //Main nav Styling
 
+
+
 .navbar a{
     color: $red;
     text-transform: uppercase;
-    font-size:16px;
-    margin-top: 1em !important;
-    margin-bottom: 1em !important;
+    font-size: 1.7rem;
+    margin-top: 0em !important;
+    margin-bottom: 0em !important;
     background-color:transparent !important;
 }
 
 
 
-.navbar{
+.main-nav-sticky{
     border: none !important;
+    margin-bottom: 15px;
+    padding-left: 0;
+    list-style: none;
+    margin-top: -30px;
     
 }
 .navbar-default{
-    background-color: #f8f8f800 !important;
+    background-color: white !important;
 }
 
 
 .navbar a:hover{
     color: $red;
 }
+
+
 
 .navbar{
     min-height: 0rem !important;
@@ -50,7 +58,20 @@ a[title="Logo"]{
     width: 100%;
     display: block;
     margin: 0 auto;
+    width: 204px;
+    height: 69px;
+    margin-top: 2rem !important;
 }
+
+.page-header{
+    line-height: 30px;
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 9 !important;
+    border-bottom: none !important;
+}
+
+
 
 
 // Main container

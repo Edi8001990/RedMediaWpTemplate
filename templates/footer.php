@@ -1,4 +1,4 @@
-<footer class="content-info">
+<!-- <footer class="content-info">
 	<div class="container">
 		<div class="row">
 			
@@ -9,6 +9,6 @@
 			</div>
 		</div>
 	</div>
-</footer>
+</footer> -->
 
 <?php echo get_template_part('templates/additional', 'scripts') ?>
