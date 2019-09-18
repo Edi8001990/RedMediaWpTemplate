@@ -10,7 +10,7 @@
 		//  the_content(); 
 		?>
 	</div>
-	<div class="container-fluid"><?= include 'inc/main-nav.php' ?></div>
+	<div class="container-fluid"></div>
 	<?= include 'body.php' ?>
 	<footer>
 		<?php 
@@ -19,3 +19,5 @@
 	</footer>
 	<?php comments_template('/templates/comments.php'); ?>
 </article>
+
+

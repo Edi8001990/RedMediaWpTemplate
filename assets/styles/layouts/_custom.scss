@@ -42,12 +42,10 @@
 
 .main-nav-sticky{
     border: none !important;
-    margin-bottom: 15px;
     padding-left: 0;
     list-style: none;
-    margin-top: -30px;
-    
 }
+
 .navbar-default{
     background-color: white !important;
 }
@@ -76,7 +74,7 @@ a[title="Logo"]{
     height: 74px;
     padding-top: 10px;
     position: relative;
-    top: 2.5rem;
+    top: 1.5rem;
 }
 
 .logo{
@@ -88,7 +86,8 @@ a[title="Logo"]{
 }
 
 .page-header{
-    line-height: 5rem;
+    padding-bottom: 9px !important; 
+    margin: 0px !important;
     position: sticky !important;
     top: 0 !important;
     z-index: 9 !important;

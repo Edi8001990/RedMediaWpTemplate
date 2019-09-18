@@ -1,10 +1,10 @@
 
 
 <div class="row m-0">
-<?= include 'inc/page-blocks/home.php' ?>  
-<?= include 'inc/page-blocks/restaurant.php' ?>
-<?= include 'inc/page-blocks/menus.php' ?>
-<?= include 'inc/page-blocks/contact.php' ?>
-<?= include 'inc/page-blocks/footer.php' ?>
+<?php include 'inc/page-blocks/home.php' ?>  
+<?php include 'inc/page-blocks/restaurant.php' ?>
+<?php include 'inc/page-blocks/menus.php' ?>
+<?php include 'inc/page-blocks/contact.php' ?>
+<?php include 'inc/page-blocks/footer.php' ?>
 </div>
 
