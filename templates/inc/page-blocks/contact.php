@@ -20,7 +20,7 @@
 											G1 2PT
 										</td>
                                     </tr>
-                                    <tr id="table-row">
+                                    <tr id="table-row-empty">
 										<td>empty</td>
 										<td>empty</td>
                                     </tr>

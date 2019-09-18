@@ -14,6 +14,10 @@
 //Main nav Styling
 
 
+.navbar{
+    margin-left: 45rem;
+    margin-right: 45rem;
+}
 
 .navbar a{
     color: $red;
@@ -22,9 +26,18 @@
     margin-top: 0em !important;
     margin-bottom: 0em !important;
     background-color:transparent !important;
+    
 }
 
+// .navbar ul  #no-logo{
+//     margin-top: 10px !important;
+// }
 
+
+.ul-list{
+    padding-top: 1rem;
+    line-height: 2.1rem;
+}
 
 .main-nav-sticky{
     border: none !important;
@@ -57,24 +70,42 @@ a[title="Logo"]{
     font-size: 0;
     width: 100%;
     display: block;
-    margin: 0 auto;
-    width: 204px;
+    margin: 20px auto 0px auto;
+    width: 210px;
     height: 69px;
-    margin-top: 2rem !important;
+    padding-top: 10px;
+    position: relative;
+    top: 2.5rem;
+}
+
+.logo{
+    padding-top:10px !important;
+}
+
+#logo{
+    margin-top: 1rem;
 }
 
 .page-header{
-    line-height: 30px;
+    line-height: 5rem;
     position: sticky !important;
     top: 0 !important;
     z-index: 9 !important;
     border-bottom: none !important;
 }
 
+.main-nav-row {
+    background-color: white;
+    -webkit-box-shadow: 0px 9px 12px -7px rgba(0,0,0,0.17);
+    -moz-box-shadow: 0px 9px 12px -7px rgba(0,0,0,0.17);
+    box-shadow: 0px 9px 12px -7px rgba(0,0,0,0.17);
+    
+}
 
 
 
-// Main container
+
+// Main container 
 
 .container {
     margin: 0 auto;
@@ -233,7 +264,7 @@ a[title="Logo"]{
 
 
 
-//Footer section
+//Footer section 
 
 .company a{
     color: $gold;
@@ -273,7 +304,7 @@ a[title="Logo"]{
     padding-top: 0.5rem;
 }
 
-#table-row{
+#table-row-empty{
     visibility: hidden;
 }
 
