@@ -16,7 +16,9 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <a class="brand" href="<?= esc_url(home_url('/')); ?>"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/argyle-logo.svg" alt="<?php bloginfo('name'); ?>"></a>
+        <a class="brand" href="<?= esc_url(home_url('/')); ?>"><img src="<?php 
+        // echo get_stylesheet_directory_uri(); 
+        ?>/assets/images/argyle-logo.svg" alt="<?php bloginfo('name'); ?>"></a>
         <div class="menu-container">
           <nav class="nav-primary" role="navigation">
             <?php
