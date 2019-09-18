@@ -2,7 +2,7 @@
 
 
 <section id="home">
-    <div class="container">
+    <div class="container home-block">
     <div class="row">
       <div class="home">
         <div class="embed-responsive embed-responsive-16by9  text-center">

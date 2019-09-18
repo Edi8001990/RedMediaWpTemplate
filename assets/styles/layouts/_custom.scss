@@ -22,10 +22,11 @@
 .navbar a{
     color: $red;
     text-transform: uppercase;
-    font-size: 1.7rem;
+    font-size: 2rem;
     margin-top: 0em !important;
     margin-bottom: 0em !important;
     background-color:transparent !important;
+    font-family: 'Oswald',sans-serif;
     
 }
 
@@ -71,8 +72,8 @@ a[title="Logo"]{
     width: 100%;
     display: block;
     margin: 20px auto 0px auto;
-    width: 210px;
-    height: 69px;
+    width: 220px;
+    height: 74px;
     padding-top: 10px;
     position: relative;
     top: 2.5rem;
@@ -112,6 +113,10 @@ a[title="Logo"]{
     width: 100%;
 }
 
+.home-block{
+    background-color: $red;
+}
+
 
 
 
@@ -125,7 +130,7 @@ a[title="Logo"]{
 
 //Restaurant block
 .restaurant{
-   background-color:#f3f3f3; 
+   background-color: $dark_blue; 
 }
 
 .image-sample-container{
@@ -141,7 +146,7 @@ a[title="Logo"]{
 .restaurant-text-first{
     font-family: Oswald,sans-serif;
     font-size: 2.5rem;
-    color: #4a4a4a;
+    color: $white;
     letter-spacing: .01rem;
     line-height: 3.2rem;
     font-family: 'Oswald', sans-serif;
@@ -152,7 +157,7 @@ a[title="Logo"]{
 }
 
 .restaurant-text-second{
-    color: #4a4a4a;
+    color: $white;
     letter-spacing: .07px;
     line-height: 2.3rem;
     padding: 5rem 20rem 5rem 14rem;
@@ -163,14 +168,15 @@ a[title="Logo"]{
 
 //Menus meals block
 .menus{
-    background-image: url('https://babs.co.uk/wp-content/uploads/2018/02/dark-bg.jpg');
+    background: url('http://localhost/wp/wordpress/wp-content/uploads/2019/09/background-image.jpg') no-repeat center center fixed;
+    background-size: cover;
     padding-top: 2rem;
     padding-bottom: 7rem;
 }
 
 
 .menus-block-first{
-    font-family: Oswald,sans-serif;
+    font-family: 'Oswald',sans-serif;
     font-size: 2.5rem;
     color: white;
     letter-spacing: .01rem;
@@ -195,7 +201,7 @@ a[title="Logo"]{
 }
 
 .navbar-menus a{
-    color: $gold;
+    color: white;
     text-transform: uppercase;
     font-size:16px;
     background-color:transparent !important;
@@ -230,12 +236,16 @@ a[title="Logo"]{
 
 //Contact Section
 
+.contact{
+    background-color: $red;
+}
+
 .contact-block-first{
     padding: 5rem 5rem 5rem 30rem;  
 }
 
 .contact-header{
-    color: $blue;
+    color: $white;
     font-family: Oswald,sans-serif;
     font-size: 2.5rem;
 }
@@ -244,10 +254,12 @@ a[title="Logo"]{
     letter-spacing: .01rem;
     line-height: 2.3rem;
     font-size: 1.7rem !important;
+    color: $white;
 }
 
 .contact .contact-table tr td{
     vertical-align: top;
+    color: $white;
 }
 
 .contact-table{
@@ -257,7 +269,7 @@ a[title="Logo"]{
 
 .contact-table tr td i.fa{
     width: 2rem;
-    color: $gold;
+    color: $white;
 }
 
 
@@ -267,18 +279,18 @@ a[title="Logo"]{
 //Footer section 
 
 .company a{
-    color: $gold;
+    color: $red_bright;
     text-decoration: none;
 }
 
 .company a:hover{
-    color: $gold;
+    color: $red_bright;
 }
 
 
 .footer-container{
     background-color: $blue;
-    color: #9b9b9b !important;
+    color: $white !important;
     font-size: 1.4rem;
     padding: 1.25rem 1.25rem 0.25rem 1.25rem;
     font-family: 'Lato',sans-serif;
@@ -294,7 +306,7 @@ a[title="Logo"]{
 }
 
 .icons li a{
-    color: $gold !important;
+    color: $white !important;
 }
 .icons li a:hover{
     text-decoration:none !important;
@@ -309,7 +321,7 @@ a[title="Logo"]{
 }
 
 #phone a{
-    color: $gold;
+    color: $white;
 }
 
 
