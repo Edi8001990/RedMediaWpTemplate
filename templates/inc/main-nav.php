@@ -1,4 +1,6 @@
+<div class="container">
 <div class="row main-nav-row">
+<div class="col-xs-12">
 <div class="main-nav banner">
    <nav class="navbar navbar-default main-nav-sticky">
             <ul class="nav nav-justified ul-list">
@@ -11,5 +13,7 @@
              
             </ul>
         </nav>
+        </div>
     </div>
+</div>
 </div>
