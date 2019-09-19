@@ -3,7 +3,7 @@
    <nav class="navbar navbar-default main-nav-sticky">
             <ul class="nav nav-justified ul-list">
              
-                <li><a href="#home" id="home">Home</a></li>
+                <li><a href="#home-section" id="home">Home</a></li>
                 <li><a href="#restaurant">Restaurant</a></li>
                 <li><a title="Logo" id="logo" href=""></a></li>
                 <li><a href="#menus">Menus</a></li>

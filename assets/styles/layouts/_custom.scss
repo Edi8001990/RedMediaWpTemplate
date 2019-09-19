@@ -86,8 +86,9 @@ a[title="Logo"]{
 }
 
 .page-header{
-    padding-bottom: 9px !important; 
-    margin: 0px !important;
+    margin-top: -15rem !important;
+    
+    
     position: sticky !important;
     top: 0 !important;
     z-index: 9 !important;
@@ -112,6 +113,11 @@ a[title="Logo"]{
     width: 100%;
 }
 
+.home-section{
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+}
+
 .home-block{
     background-color: $red;
 }
@@ -122,7 +128,8 @@ a[title="Logo"]{
 //Home block
 
 .embed-responsive-16by9{
-    padding-bottom: 60rem !important;
+    padding-top: 10% !important;
+     padding-bottom: 35.25% !important;
 }
 
 

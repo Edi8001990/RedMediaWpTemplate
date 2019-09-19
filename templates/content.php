@@ -11,7 +11,7 @@
 		?>
 	</div>
 	<div class="container-fluid"></div>
-	<?= include 'body.php' ?>
+	<?php include 'body.php' ?>
 	<footer>
 		<?php 
 		// wp_link_pages(['before' => '<nav class="page-nav"><p>' . __('Pages:', 'sage'), 'after' => '</p></nav>']); 
