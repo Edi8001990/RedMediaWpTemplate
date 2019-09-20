@@ -114,13 +114,14 @@ a[title="Logo"]{
     width: 100%;
 }
 
-.home-section{
-    margin-top: 10rem;
-    margin-bottom: 10rem;
-}
+// .home-section{
+    
+// }
 
 .home-block{
     background-color: $red;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
 }
 
 
@@ -138,6 +139,8 @@ a[title="Logo"]{
 //Restaurant block
 .restaurant{
    background-color: $dark_blue; 
+   padding-top: 10rem;
+    padding-bottom: 10rem;
 }
 
 .image-sample-container{
@@ -177,8 +180,8 @@ a[title="Logo"]{
 .menus{
     background: url('http://localhost/wp/wordpress/wp-content/uploads/2019/09/background-image.jpg') no-repeat center center fixed;
     background-size: cover;
-    padding-top: 2rem;
-    padding-bottom: 7rem;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
 }
 
 
@@ -245,6 +248,8 @@ a[title="Logo"]{
 
 .contact{
     background-color: $red;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
 }
 
 .contact-block-first{
