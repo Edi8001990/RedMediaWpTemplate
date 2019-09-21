@@ -28,7 +28,7 @@
      
 
 
-      <div class="col-lg-6 menus-block-second"><img src="https://babs.co.uk/wp-content/uploads/2018/02/64-DS7_2168.jpg" class="img-fluid image-menus-sample" alt="Responsive image"></div>
+      <div class="col-lg-6 menus-block-second"><img src="http://localhost/wp/wordpress/wp-content/uploads/2019/09/1.jpg" class="img-fluid image-menus-sample" alt="Responsive image"></div>
 </div></section>
 
 

@@ -143,9 +143,9 @@ a[title="Logo"]{
     padding-bottom: 10rem;
 }
 
-.image-sample-container{
+.image-carousel-container{
     margin-top: 2rem;
-    text-align: center;
+    
 }
 
 .image-sample{
@@ -172,6 +172,10 @@ a[title="Logo"]{
     line-height: 2.3rem;
     padding: 5rem 20rem 5rem 14rem;
     font-size: 1.7rem;
+}
+
+.item{
+    height:450px !important;
 }
 
 
