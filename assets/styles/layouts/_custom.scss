@@ -174,10 +174,25 @@ a[title="Logo"]{
     font-size: 1.7rem;
 }
 
-.item{
-    height:450px !important;
+ .carousel-inner .item img{
+    margin: auto !important;
 }
 
+.carousel{
+    position: relative !important;
+}
+
+.carousel .carousel-inner .item{
+    width:450px;
+    height:450px;
+    background-size: cover;
+    background-position: 50%;
+    margin: auto !important;
+}
+
+
+
+    
 
 
 //Menus meals block
