@@ -15,10 +15,28 @@
                                                 <div class="item" style="background-image: url('http://localhost/wp/wordpress/wp-content/uploads/2019/09/3.jpg');"></div>
                                                 <div class="item" style="background-image: url('http://localhost/wp/wordpress/wp-content/uploads/2019/09/4.jpg');"></div>
                                                 <div class="item" style="background-image: url('http://localhost/wp/wordpress/wp-content/uploads/2019/09/5.jpg');"></div>
+
+
+                                     </div>
+                                                <a class="left carousel-control" href="#aboutCarousel" data-slide="prev">
+                                                      <span class="glyphicon glyphicon-chevron-left"></span>
+                                                      <span class="sr-only">Previous</span>
+                                                </a>
+
+                                                <a class="right carousel-control" href="#aboutCarousel" data-slide="next">
+                                                      <span class="glyphicon glyphicon-chevron-right"></span>
+                                                      <span class="sr-only">Next</span>
+                                                </a>
+
+
+
+                        
                                     
+
+                       
+
                         </div>
-                        </div>
-                        <!-- </div> -->
+                        
                                              
       <div class="col-lg-6 restaurant-text-first">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</div>
       <div class="col-lg-6 restaurant-text-second">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>

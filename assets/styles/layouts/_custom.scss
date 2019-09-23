@@ -174,22 +174,47 @@ a[title="Logo"]{
     font-size: 1.7rem;
 }
 
- .carousel-inner .item img{
-    margin: auto !important;
-}
+//  .carousel-inner .item img{
+//     margin: auto !important;
+// }
 
-.carousel{
-    position: relative !important;
-}
+// .carousel{
+//     // position: relative !important;
+// }
 
-.carousel .carousel-inner .item{
-    width:450px;
+
+
+
+.carousel-inner{
+    position: relative;
+    width: 500px;
     height:450px;
     background-size: cover;
     background-position: 50%;
     margin: auto !important;
+     
 }
 
+.item{
+    width: 500px;
+    height:450px;
+    background-size: cover;
+    background-position: 50%;
+    
+}
+
+// .carousel-inner{
+//     overflow: hidden;
+//     width: 100%;
+// }
+
+.carousel-control{
+    width:70%;
+}
+
+.carousel-control.left, .carousel-control.right{
+    background-image: none !important;
+}
 
 
     
@@ -328,7 +353,7 @@ a[title="Logo"]{
     
 }
 .col-md-3{
-    width: 28%;
+    width: 26%;
     float:right;
 }
 
