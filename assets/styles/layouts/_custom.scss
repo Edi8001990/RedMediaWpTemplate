@@ -200,6 +200,28 @@ a[title="Logo"]{
     height:450px;
     background-size: cover;
     background-position: 50%;
+}
+
+.buttons-column{
+    width: 100% !important;
+}
+
+.carolusel-buttons{
+    position: absolute;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    bottom: 22rem;
+    
+}
+
+.carolusel-buttons a{
+    width: 50px;
+    text-decoration: none;
+    font-size:50px !important;
+    padding-right: 25rem;
+    padding-left: 25rem;
+    outline: none;
     
 }
 

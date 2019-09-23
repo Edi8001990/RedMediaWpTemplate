@@ -18,24 +18,40 @@
 
 
                                      </div>
-                                                <a class="left carousel-control" href="#aboutCarousel" data-slide="prev">
+                                     
+
+                                    
+			
+                                     
+                                                
+                                   
+                                                
+                                    <div class="carolusel-buttons">
+                                                <a class="carousel-control-prev" href="#aboutCarousel" data-slide="prev">
                                                       <span class="glyphicon glyphicon-chevron-left"></span>
                                                       <span class="sr-only">Previous</span>
                                                 </a>
+                                                
 
-                                                <a class="right carousel-control" href="#aboutCarousel" data-slide="next">
+                                                
+
+                                                <a class="carousel-control-next" href="#aboutCarousel" data-slide="next">
                                                       <span class="glyphicon glyphicon-chevron-right"></span>
                                                       <span class="sr-only">Next</span>
                                                 </a>
 
-
-
+                                                </div>
                         
                                     
 
                        
 
                         </div>
+
+                       
+
+                                    
+                                                
                         
                                              
       <div class="col-lg-6 restaurant-text-first">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</div>
